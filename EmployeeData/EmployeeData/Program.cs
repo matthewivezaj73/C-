@@ -17,7 +17,7 @@ namespace Employee {
         static void Main(String[] args)
         {
             //Qualifying the members of the class by using this.
-            String name = name;
+            String name;
             String employeeID;
             //Creating a console object.
             Console = Console.ReadLine();
