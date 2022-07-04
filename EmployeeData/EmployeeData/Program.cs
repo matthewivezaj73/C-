@@ -11,7 +11,7 @@ namespace Employee {
     class Employee
     {
         //Adding private variables.
-        private string alias;
+        private int employeeID;
         private string name;
         //Creating a public constructor.
         static void Main(String[] args)
