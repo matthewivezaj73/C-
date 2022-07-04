@@ -18,7 +18,7 @@ namespace Employee {
         //Creating a main method.
         static void Main(String[] args)
         {
-            //Qualifying the members of the class by using this.
+            //Declaring variables.
             String name;
             int employeeID;
             String StreetAddress;
