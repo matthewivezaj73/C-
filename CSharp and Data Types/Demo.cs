@@ -12,5 +12,5 @@ enum Language {PL, EN, DE}
 Language lan = Language.PL;
 switch(Language)
 {
-    case Language.PL;
+    case Language.PL:/* Polish version */ break;
 }
