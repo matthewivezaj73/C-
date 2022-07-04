@@ -13,4 +13,5 @@ Language lan = Language.PL;
 switch(Language)
 {
     case Language.PL:/* Polish version */ break;
+    case Language.DE:/* German Version */ break;
 }
