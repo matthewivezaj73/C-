@@ -12,6 +12,6 @@ public class Employee
     //Creating a public constructor.
     public Employee(string name, string alias)
     {
-        
+        //Qualifying the members of the class by using this.
     }
 }
