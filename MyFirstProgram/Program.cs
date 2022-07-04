@@ -9,6 +9,7 @@ namespace MyFirstProgram
         static void Main(String[] args)
         {
             //Printing a message to the user.
+            Console.WriteLine("Hello, World!");
         }
     }
 }
