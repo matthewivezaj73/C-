@@ -16,6 +16,12 @@ namespace MyFirstProgram
         {
             //Printing a message to the user.
             Console.WriteLine("Hello, World!");
+            //Defining a block.
+            if(true)
+            {
+                //Creating variables.   
+                int a = 100;
+            }
         }
 
         
