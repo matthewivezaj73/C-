@@ -5,6 +5,7 @@
 */
 //Importing system.
 using System;
+//Creating a namespace.
 //Creating a public class.
 class Employee
 {
