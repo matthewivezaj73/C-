@@ -3,8 +3,8 @@
     7/4/2022
     Employees
 */
-
+//Creating a public class.
 public class Employee
 {
-    
+
 }
