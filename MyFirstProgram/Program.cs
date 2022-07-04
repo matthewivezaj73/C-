@@ -18,12 +18,7 @@ namespace MyFirstProgram
             Console.WriteLine("Hello, World!");
         }
 
-        //Defining a block.
-        if(true)
-        {
-            //Creating variables.   
-            int a = 100;
-        }
+        
     }
 }
 // See https://aka.ms/new-console-template for more information
