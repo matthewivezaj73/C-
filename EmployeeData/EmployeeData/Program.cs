@@ -13,7 +13,7 @@ namespace Employee {
         //Adding private variables.
         private int employeeID;
         private string name;
-        //Creating a public constructor.
+        //Creating a main method.
         static void Main(String[] args)
         {
             //Qualifying the members of the class by using this.
