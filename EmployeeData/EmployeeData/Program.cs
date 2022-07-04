@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-/*
+﻿/*
     Matthew Ivezaj
     7/4/2022
     Employees
