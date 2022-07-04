@@ -15,7 +15,7 @@ public class Employee
         //Qualifying the members of the class by using this.
         this.name = name;
         this.employeeID = employeeID;
-
+        //Creating a console object.
         //Printing out a message to the user.
         Console.WriteLine("Please enter the employee's name:   ");
         //Reading the line from the user as input.
