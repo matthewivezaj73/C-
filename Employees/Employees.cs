@@ -10,7 +10,7 @@ public class Employee
     private string alias;
     private string name;
     //Creating a public method.
-    public Employee(string name, string alias)
+    public Employee(string name, string employeeID)
     {
         //Qualifying the members of the class by using this.
         this.name = name;
