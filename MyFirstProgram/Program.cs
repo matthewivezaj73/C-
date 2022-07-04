@@ -8,7 +8,7 @@ namespace MyFirstProgram
         //Creating the main method.
         static void Main(String[] args)
         {
-            
+            //Printing a message to the user.
         }
     }
 }
