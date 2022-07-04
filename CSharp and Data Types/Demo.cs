@@ -7,4 +7,3 @@ int number = 500;
 //Creating a const value.
 const int DAYS_IN_WEEK = 7;
 //Creating an enumeration.
-const int DAYS_IN_WEEK = 7
