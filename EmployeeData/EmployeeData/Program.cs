@@ -13,15 +13,6 @@ namespace Employee {
         //Adding private variables.
         private int employeeID;
         private string name;
-        // static void getEmployeeID(int employeeID)
-        // {
-        //     int employeeID;
-
-        //     //Pinting out a message to the user.
-        //     Console.WriteLine("Please enter the employee's ID:   ");
-        //     //Creating a console object.
-        //     employeeID = Console.ReadLine();
-        // }
         //Creating a main method.
         static void Main(String[] args)
         {
