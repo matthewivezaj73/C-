@@ -3,6 +3,7 @@ using System;
 //Creating a namespace.
 namespace MyFirstProgram
 {
+    //Creating a class.
     class Program
     {
         //Creating the main method.
