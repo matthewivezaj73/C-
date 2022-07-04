@@ -10,7 +10,7 @@ public class Employee
     private string alias;
     private string name;
     //Creating a public constructor.
-    public Employee(string name, string employeeID)
+    public static void Main(string [] args)
     {
         //Qualifying the members of the class by using this.
         this.name = name;
