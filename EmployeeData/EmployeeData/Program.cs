@@ -20,7 +20,7 @@ namespace Employee {
             String name;
             String employeeID;
             //Creating a console object.
-            Console = Console.ReadLine();
+            name = Console.ReadLine();
             //Printing out a message to the user.
             Console.WriteLine("Please enter the employee's name:   ");
             //Reading the line from the user as input.
