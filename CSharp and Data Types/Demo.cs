@@ -8,3 +8,4 @@ int number = 500;
 const int DAYS_IN_WEEK = 7;
 //Creating an enumeration.
 enum Language {PL, EN, DE}
+//Using defined enumerations as a data type.
