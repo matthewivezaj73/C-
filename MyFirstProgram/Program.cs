@@ -27,6 +27,7 @@ namespace MyFirstProgram
             //Reading lines in C#.
             string str = Console.ReadLine();
             //Writing text to the console.
+            Console.WriteLine("Hello world!")
         }
     }
 }
