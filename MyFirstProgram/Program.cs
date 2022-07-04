@@ -17,6 +17,8 @@ namespace MyFirstProgram
             //Printing a message to the user.
             Console.WriteLine("Hello, World!");
         }
+
+        //Defining a block.
     }
 }
 // See https://aka.ms/new-console-template for more information
