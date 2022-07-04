@@ -17,4 +17,8 @@ public class Employee
         this.employeeID = employeeID;
     }
     //Creating a public method to acquire the employee information.
+    public void getEmployeeData()
+    {
+        
+    }
 }
