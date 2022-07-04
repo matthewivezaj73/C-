@@ -6,7 +6,7 @@
 //Importing system.
 using System;
 //Creating a public class.
-public class Employee
+class Employee
 {
     //Adding private variables.
     private string alias;
