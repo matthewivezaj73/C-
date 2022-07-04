@@ -10,4 +10,8 @@ public class Employee
     private string alias;
     private string name;
     //Creating a public constructor.
+    public Employee(string name, string alias)
+    {
+        
+    }
 }
