@@ -21,7 +21,7 @@ namespace MyFirstProgram
         //Defining a block.
         if(true)
         {
-            
+            //Creating variables.   
         }
     }
 }
