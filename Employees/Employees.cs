@@ -14,5 +14,6 @@ public class Employee
     {
         //Qualifying the members of the class by using this.
         this.name = name;
+        this.alias = alias;
     }
 }
