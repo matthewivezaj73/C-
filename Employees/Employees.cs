@@ -6,5 +6,5 @@
 //Creating a public class.
 public class Employee
 {
-    
+    //Adding private variables.
 }
