@@ -22,6 +22,7 @@ namespace MyFirstProgram
         if(true)
         {
             //Creating variables.   
+            int a = 100;
         }
     }
 }
