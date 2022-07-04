@@ -24,6 +24,7 @@ namespace MyFirstProgram
                 int a = 100;
                 int b = a;
             }
+            //Reading lines in C#.
         }
     }
 }
