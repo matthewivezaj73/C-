@@ -13,5 +13,6 @@ public class Employee
     public Employee(string name, string alias)
     {
         //Qualifying the members of the class by using this.
+        this.name = name;
     }
 }
