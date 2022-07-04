@@ -19,6 +19,10 @@ namespace MyFirstProgram
         }
 
         //Defining a block.
+        if(true)
+        {
+            
+        }
     }
 }
 // See https://aka.ms/new-console-template for more information
