@@ -25,6 +25,7 @@ namespace MyFirstProgram
                 int b = a;
             }
             //Reading lines in C#.
+            string str = Console.ReadLine();
         }
     }
 }
