@@ -19,6 +19,7 @@ public class Employee
     //Creating a public method to acquire the employee information.
     public void getEmployeeData(string name, int employeeID)
     {
+        //Printing out a message to the user.
         //Reading the line from the user as input.
     }
 }
