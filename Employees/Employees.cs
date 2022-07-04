@@ -8,4 +8,5 @@ public class Employee
 {
     //Adding private variables.
     private string alias;
+    private string name;
 }
