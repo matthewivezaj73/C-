@@ -9,3 +9,8 @@ const int DAYS_IN_WEEK = 7;
 //Creating an enumeration.
 enum Language {PL, EN, DE}
 //Using defined enumerations as a data type.
+Language lan = Language.PL;
+switch(Language)
+{
+    case Language.PL;
+}
