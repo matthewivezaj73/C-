@@ -24,8 +24,6 @@ namespace MyFirstProgram
                 int b = a;
             }
         }
-
-        
     }
 }
 // See https://aka.ms/new-console-template for more information
