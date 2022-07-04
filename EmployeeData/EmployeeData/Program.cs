@@ -26,6 +26,7 @@ namespace Employee {
             name = Console.ReadLine();
 
             //Pinting out a message to the user.
+            Console.WriteLine("Please enter the employee's ID:   ");
         }
     }
 }
