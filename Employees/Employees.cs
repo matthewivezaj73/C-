@@ -20,7 +20,7 @@ public class Employee
     public void getEmployeeData(string name, int employeeID)
     {
         //Printing out a message to the user.
-        Console.WriteLine("Please enter the employee's name:   ")
+        Console.WriteLine("Please enter the employee's name:   ");
         //Reading the line from the user as input.
     }
 }
