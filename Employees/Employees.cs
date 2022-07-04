@@ -16,4 +16,5 @@ public class Employee
         this.name = name;
         this.employeeID = employeeID;
     }
+    //Creating a public method to acquire the employee information.
 }
