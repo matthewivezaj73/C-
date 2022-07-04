@@ -21,6 +21,7 @@ namespace MyFirstProgram
             {
                 //Creating variables.   
                 int a = 100;
+                int b = a;
             }
         }
 
