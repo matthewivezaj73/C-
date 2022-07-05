@@ -5,6 +5,6 @@ class MyApp
     static void Main(string[] args)
     {
         //Printing out a message to the user.
-        System.Console.WriteLine("Hello everyone!")
+        System.Console.WriteLine("Hello everyone!");
     }
 }
