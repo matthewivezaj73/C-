@@ -1,3 +1,8 @@
+/*
+        Matthew Ivezaj
+        7/5/2022
+        MyApp
+*/
 //Creating a class.
 class MyApp
 {
